@@ -1,13 +1,20 @@
 ---
 layout: default
 ---
+# CMOS Sensors
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+----------------------------------------
 
-[Link to another page](./another-page.html).
+[Quantum Efficiency](./another-page.html)
 
-There should be whitespace between paragraphs.
+[Read noise](./readnoise.md)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[quantum Efficiency](./QE.md)
 
-# Header 1
+[Well depth](WellD.md)
+
+[Thermal noise](ThermN.md)
+
+[Shot noise](ShotN.md)
+
+---------------------------------------
